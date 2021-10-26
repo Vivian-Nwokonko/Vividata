@@ -1,0 +1,19 @@
+body {
+    background-color: lightpink;
+    }
+    img{
+        width: 20%;
+    }
+    h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: navy;}
+    h2 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: mediumvioletred;} 
+    div.footer {
+        font-size: 9pt;
+        font-style: italic;
+        text-align: center;
+    }
+
+        
+              
+
